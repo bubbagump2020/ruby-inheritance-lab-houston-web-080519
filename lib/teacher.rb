@@ -1,4 +1,4 @@
-require './User'
+require './user'
 
 class Teacher < User
 
