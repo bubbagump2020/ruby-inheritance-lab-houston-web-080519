@@ -31,3 +31,4 @@ bill.learn(some_knowledge2)
 bill.learn(some_knowledge3)
 
 puts "Steve just learned this important knowledge: '#{steve.knowledge.first}' from Avi"
+puts "Bill just learned this important knowledge: '#{bill.knowledge.first}' from Avi"
