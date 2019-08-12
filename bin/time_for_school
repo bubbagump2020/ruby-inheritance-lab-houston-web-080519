@@ -19,5 +19,7 @@ some_knowledge2 = avi.teach
 some_knowledge3 = avi.teach
 
 steve.learn(some_knowledge)
+steve.learn(some_knowledge2)
+steve.learn(some_knowledge3)
 
 puts "Steve just learned this important knowledge: '#{steve.knowledge.first}' from Avi"
